@@ -10,18 +10,18 @@ Vamos explorar alguns exemplos de uso:
 
 Ao abrir o [Microsoft Copilot](https://copilot.microsoft.com/). Na parte inferior da página há uma janela com a mensagem "**Pergunte-me qualquer coisa.**" , ela permite que os prompts sejam enviados por texto, por áudio e também junto com uma imagem. Acima da janela, há  exemplos de prompts populares.
 
-![Exemplo de Prompt 0](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blog/main/MicrosoftCopilot/inputs/exemplo_de_promp_0.png)
+![Exemplo de Prompt 0](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blob/main/MicrosoftCopilot/inputs/exemplo_de_promp_0.png)
 
 ### 1.1 Tradução Multilíngue 🌐
 Você pode usar o Copilot para traduzir frases para vários idiomas. Por exemplo:
 
 #### Exemplo de Prompt:
 
-![Exemplo de Prompt 1](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blog/main/MicrosoftCopilot/inputs/exemplo_de_promp_1.png)
+![Exemplo de Prompt 1](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blob/main/MicrosoftCopilot/inputs/exemplo_de_promp_1.png)
 
 #### Resposta do Prompt:
 
-![Resposta do Prompt 1](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blog/main/MicrosoftCopilot/output/resposta_do_promp_1.png)
+![Resposta do Prompt 1](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blob/main/MicrosoftCopilot/output/resposta_do_promp_1.png)
 
 
 ### 1.2 Criação de Código Python 🐍
@@ -29,14 +29,14 @@ O Copilot pode gerar código Python com base em descrições. Por exemplo:
 
 #### Exemplo de Prompt:
 
-![Exemplo de Prompt 2](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blog/main/MicrosoftCopilot/inputs/exemplo_de_promp_2.png)
+![Exemplo de Prompt 2](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blob/main/MicrosoftCopilot/inputs/exemplo_de_promp_2.png)
 
 #### Resposta do Prompt:
 
-![Resposta do Prompt 2.1](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blog/main/MicrosoftCopilot/output/resposta_do_promp_2_1.png)
-![Resposta do Prompt 2.2](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blog/main/MicrosoftCopilot/output/resposta_do_promp_2_2.png)
-![Resposta do Prompt 2.3](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blog/main/MicrosoftCopilot/output/resposta_do_promp_2_3.png)
-![Resposta do Prompt 2.4](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blog/main/MicrosoftCopilot/output/resposta_do_promp_2_4.png)
+![Resposta do Prompt 2.1](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blob/main/MicrosoftCopilot/output/resposta_do_promp_2_1.png)
+![Resposta do Prompt 2.2](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blob/main/MicrosoftCopilot/output/resposta_do_promp_2_2.png)
+![Resposta do Prompt 2.3](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blob/main/MicrosoftCopilot/output/resposta_do_promp_2_3.png)
+![Resposta do Prompt 2.4](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blob/main/MicrosoftCopilot/output/resposta_do_promp_2_4.png)
 
 
 ### 1.3 Comentários e Explicações de Código 💬
@@ -44,12 +44,12 @@ Você pode pedir ao Copilot para adicionar comentários e explicar trechos de c�
 
 #### Exemplo de Prompt:
 
-![Exemplo de Prompt 3](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blog/main/MicrosoftCopilot/inputs/exemplo_de_promp_3.png)
+![Exemplo de Prompt 3](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blob/main/MicrosoftCopilot/inputs/exemplo_de_promp_3.png)
 
 #### Resposta do Prompt:
 
-![Resposta do Prompt 3.1](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blog/main/MicrosoftCopilot/output/resposta_do_promp_3_1.png)
-![Resposta do Prompt 3.2](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blog/main/MicrosoftCopilot/output/resposta_do_promp_3_2.png)
+![Resposta do Prompt 3.1](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blob/main/MicrosoftCopilot/output/resposta_do_promp_3_1.png)
+![Resposta do Prompt 3.2](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blob/main/MicrosoftCopilot/output/resposta_do_promp_3_2.png)
 
 
 ### 1.4 Geração de Imagens 🖼️
@@ -57,11 +57,11 @@ O Copilot também pode criar imagens com base em descrições. Por exemplo:
 
 #### Exemplo de Prompt:
 
-![Exemplo de Prompt 4](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blog/main/MicrosoftCopilot/inputs/exemplo_de_promp_4.png)
+![Exemplo de Prompt 4](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blob/main/MicrosoftCopilot/inputs/exemplo_de_promp_4.png)
 
 #### Resposta do Prompt:
 
-![Resposta do Prompt 4](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blog/main/MicrosoftCopilot/output/resposta_do_promp_4.png)
+![Resposta do Prompt 4](https://github.com/marceloansantos/IA-Generativa-com-Copilot-e-Azure-OpenAI/blob/main/MicrosoftCopilot/output/resposta_do_promp_4.png)
 
 ## 2. Azure OpenAI 🚀
 
